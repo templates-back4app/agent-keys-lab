@@ -36,7 +36,7 @@ Told to clean up:
 ```
 notes before:                12
 notes after:                 0
-how long the agent needed:   10 ms
+how long the agent needed:   15 ms
 ```
 
 The last column is the one that outlives the conversation. A master-key agent can
